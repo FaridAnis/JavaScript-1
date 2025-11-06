@@ -1,0 +1,18 @@
+let a;
+let b;
+let c;
+let d;
+let e;
+let M;
+a = Number(prompt("Enter la note a"));
+console.log(a);
+b = Number(prompt("Enter la note b"));
+console.log(a);
+c = Number(prompt("Enter la note c"));
+console.log(a);
+d = Number(prompt("Enter la note d"));
+console.log(a);
+e = Number(prompt("Enter la note e"));
+console.log(a);
+M = (a + b + c + d + e) / 5;
+console.log("la moyenne est:", M);
